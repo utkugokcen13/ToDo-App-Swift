@@ -7,7 +7,7 @@
 
 import Foundation
 
-class ItemModel{
+class Item {
     var title: String = ""
     var isChecked: Bool = false
 }
